@@ -11,7 +11,7 @@ This Web API gives list of makeup products information using : http://makeup-api
 - Axios
 
 ## Run Project :
-1. NPM 
+Using NPM 
 - Clone this repo
 - Install Dependencies 
 - Using console start index.js
