@@ -6,6 +6,11 @@ This Web API gives list of makeup products information using : http://makeup-api
 ## Requirement 
 - NodeJs 
 
+## Avaible API
+- GET / brand
+- GET / tags
+- GET / proudctTypes
+
 ## Dependencies
 - Express 
 - Axios
@@ -16,4 +21,9 @@ Using NPM
 - Install Dependencies 
 - Using console start index.js
 
+## Blueprint 
+(https://nasigorengzona.docs.apiary.io/#)
+
+## Architecture & Diagram 
+(https://github.com/nasigorengzona/UASRekayasaAplikasi/blob/master/UASDES/Dokumentasi%20WEB%20API.docx)
 
